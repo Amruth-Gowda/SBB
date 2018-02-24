@@ -1,0 +1,18 @@
+Smart Book Borrow (Web + Android)
+
+Admin part (Web)
+---------------------------------------
+- Login / Logout
+- add/delete/remove books
+- approve books sell request
+
+
+User
+- Buy
+  user can buy books
+
+- sell
+  user can sell his books
+  
+- Borrow
+user can borrow a book from the available books
